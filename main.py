@@ -16,7 +16,7 @@ from linear_regression import gradient_descent, predict
 # 1. LOAD DATASET
 # ==========================================
 
-df = pd.read_csv("dataset/housing.csv")
+df = pd.read_csv("Dataset/housing.csv")
 
 features = [
     "longitude",
